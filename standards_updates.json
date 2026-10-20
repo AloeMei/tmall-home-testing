@@ -1,0 +1,34 @@
+{
+  "updates": [
+    {
+      "old_code": "GB/T 4744-1997",
+      "new_code": "GB/T 4744-2013",
+      "type": "std",
+      "found_date": "2026-10-20",
+      "source_url": "https://zhuanlan.zhihu.com/p/2039711159331320437"
+    },
+    {
+      "old_code": "GB/T 2910-1997",
+      "new_code": "GB/T 2910系列-2009",
+      "type": "std",
+      "found_date": "2026-10-20",
+      "source_url": "https://m.11467.com/product/d23927722.htm"
+    },
+    {
+      "old_code": "FZ/T 62017-2009",
+      "new_code": "FZ/T 62017-2024",
+      "type": "judge",
+      "found_date": "2026-10-20",
+      "source_url": "https://www.guifanku.com/850784.html"
+    },
+    {
+      "old_code": "GB 6675.4-2014",
+      "new_code": "GB 6675.4-2025",
+      "type": "std",
+      "found_date": "2026-10-20",
+      "source_url": "https://zhuanlan.zhihu.com/p/2085315964619449198"
+    }
+  ],
+  "last_checked": "2026-10-20",
+  "note": "此文件由月度定时任务自动更新，记录发现的标准新版本"
+}
